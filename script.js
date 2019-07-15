@@ -190,5 +190,5 @@
   fixTable();
   // addTitle();
   fixTime();
-  addSearch();
+  // addSearch();
 }
