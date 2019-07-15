@@ -5,6 +5,14 @@ body {
   color: #404040;
 }
 
+header {
+  padding: 0.5rem 0.8rem;
+}
+  
+header > h1 {
+  font-weight: 400;
+}
+
 table {
   width: 100%;
   background: white;

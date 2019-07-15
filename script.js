@@ -188,7 +188,7 @@
   }
 
   fixTable();
-  addTitle();
+  // addTitle();
   fixTime();
   addSearch();
 }
